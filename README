@@ -1,0 +1,19 @@
+Simple Game Of Life realization. 
+Space here is torus-like (highest cell <-> lowest cell, cell on right border <-> cell on left border).
+
+Compilation: make all (requires sfml)
+Executable in /build
+
+
+Controls: 
+
+[SPACE] - pause/continue
+
+[LMOUSE] - add cell
+[RMOUSE] - remove cell
+[BACKSPACE] - erase all
+
+[ARROW UP] - faster
+[ARROW DOWN] - slower
+
+Enjoy, lol.
